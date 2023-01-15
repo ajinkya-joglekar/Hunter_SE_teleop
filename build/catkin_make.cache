@@ -1,0 +1,2 @@
+ros-g29-force-feedback
+-DCATKIN_DEVEL_PREFIX=/home/opencav-clone/steer_by_wire_ws/devel -DCMAKE_INSTALL_PREFIX=/home/opencav-clone/steer_by_wire_ws/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/opencav-clone/steer_by_wire_ws/install/setup.sh
